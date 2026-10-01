@@ -1,3 +1,3 @@
 # Projektmanagement
 
-Dies beschreibt das Projektmanagement mit Github.
+Dies beschreibt das Projektmanagement (PM) mit Github.
